@@ -1,0 +1,26 @@
+[
+    {
+        "package": "xldiff",
+        "url": "https://github.com/cbedwards-dfw/xldiff"
+    },
+    {
+        "package": "testmaker",
+        "url": "https://github.com/cbedwards-dfw/testmaker"
+    },
+    {
+        "package": "TAMMsupport",
+        "url": "https://github.com/cbedwards-dfw/TAMMsupport"
+    },
+    {
+        "package": "framrsquared",
+        "url": "https://github.com/FRAMverse/framrsquared"
+    },
+    {
+        "package": "pssp",
+        "url": "https://github.com/FRAMverse/pssp"
+    },
+	  {
+        "package": "framrosetta",
+        "url": "https://github.com/FRAMverse/framrosetta"
+    }
+]
