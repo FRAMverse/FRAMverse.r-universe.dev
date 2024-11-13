@@ -22,5 +22,8 @@
 	  {
         "package": "framrosetta",
         "url": "https://github.com/FRAMverse/framrosetta"
-    }
+    },
+
+        "package": "namespacify",
+        "url": "https://github.com/cbedwards-dfw/namespacify"
 ]
