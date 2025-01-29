@@ -26,5 +26,9 @@
     {
         "package": "namespacify",
         "url": "https://github.com/cbedwards-dfw/namespacify"
+    },
+    {
+        "package": "rrViewer",
+        "url": "https://github.com/cbedwards-dfw/rrViewer"
     }
 ]
