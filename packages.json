@@ -38,5 +38,9 @@
     {
       "package": "crayolaTAMM",
       "url": "https://github.com/cbedwards-dfw/crayolaTAMM"
+    },
+    {
+      "package": "excelsior",
+      "url": "https://github.com/cbedwards-dfw/excelsior"
     }
 ]
