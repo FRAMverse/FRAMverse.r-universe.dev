@@ -16,7 +16,7 @@
         "url": "https://github.com/FRAMverse/framrsquared"
     },
     {
-        "package": "framrsquared (development version)",
+        "package": "framrsquared",
         "url": "https://github.com/FRAMverse/framrsquared",
         "branch" : "dev"
     },
