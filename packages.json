@@ -47,5 +47,9 @@
     {
       "package": "excelsior",
       "url": "https://github.com/cbedwards-dfw/excelsior"
+    },
+    {
+      "package": "codeInspectr",
+      "url": "https://github.com/cbedwards-dfw/codeInspectr"
     }
 ]
